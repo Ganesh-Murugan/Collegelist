@@ -18,7 +18,7 @@ class ViewController: UIViewController {
     }
     
     var searchList = [Countries]()
-    var spinner = SpinnerViewController()
+//    var spinner = SpinnerViewController()
     let searchController = UISearchController()
     
     private func setUpSearchController() {
